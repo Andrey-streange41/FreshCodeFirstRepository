@@ -1,0 +1,7 @@
+.directory 
+todo.txt
+.env
+# All file start with dot 
+.*
+# exept
+!.gitignore
